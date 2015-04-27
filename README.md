@@ -3,6 +3,7 @@
 List of student submissions for WWDC 2015 scholarship. <br>
 Add your own below, just submit a pull request!
 <!--http://www.alphabetize.org-->
+<!-- PLEASE INSERT YOUR NAME IN ALPHABETICAL ORDER -->
 Name | Source | Video | Twitter | Accepted/Rejected
 --- | --- | --- | --- | ---
 Aarti Parikh | [Source](https://github.com/aarti/wwdc-scholarship-app )
@@ -45,11 +46,11 @@ Justin Matsnev | [Source](https://github.com/Jmats17/WWDC15-App)
 Kat Slump | [Source](https://github.com/katslump/WWDC2015)
 Kamesh Vedula | [Source](https://github.com/kvedula/WWDC2015)
 Lea Marolt Sonnenschein | [Source](https://github.com/leamars/WWDC2015)
+Marcel Voss | | | [Twitter](https://twitter.com/uimarcel)
 Matheus Alberton | [Source](https://github.com/matheusfrozzi/wwdcprofile)
 Matheus Rabelo | [Source](https://github.com/omatheusr/MatheusRabelo)
 Matthew Greci | [Source](https://github.com/mgreci/MatthewGreci)
 Matthew Palmer | [Source](https://github.com/matthewpalmer/WWDC-15) | [Video](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [Twitter](http://twitter.com/_matthewpalmer)
-Marcel Voss | | | [Twitter](https://twitter.com/uimarcel) |
 Patricia Abreu | [Source](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu)
 Patrick Balestra | [Source](https://github.com/BalestraPatrick/WWDC-2015-Scholarship)
 Ravin Sardal | [Source](https://github.com/randomite/ss-wwdc)
