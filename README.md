@@ -37,7 +37,7 @@ Giovanni Alcantara | [Github](https://github.com/gvsi/WWDC-2015) | | [@gvsi](htt
 Harrison Weinerman | [Github](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App)
 Ipalibo Whyte | [Github](https://github.com/IpaliboWhyte/WWDC-2015)
 Jak Tiano | [Github](https://github.com/Jakintosh/WWDC-2015-Application)
-James Brooks | [Github](https://github.com/brks/wwdc) | [Video](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | 
+James Brooks | [Github](https://github.com/brks/wwdc) | [Vimeo](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | 
 Jan Fruechtl | [Github](https://github.com/coolcut/WWDC-Scholarship-2015)
 Jared Stefanowicz | [Github](https://github.com/BigxMac/WWDC-2015)
 Jill Handy | [Github](https://github.com/Jaemu/jill-handy)
@@ -54,7 +54,7 @@ Kat Slump | [Github](https://github.com/katslump/WWDC2015)
 Kamesh Vedula | [Github](https://github.com/kvedula/WWDC2015) | | [@iTeenageCoder](http://twitter.com/iTeenageCoder)
 Kevin Ayuque | [Github](https://github.com/KevinAyuque/WWDC-2015-Scholarship)
 Lea Marolt | [Github](https://github.com/leamars/WWDC2015) | | [@hellosunschein](https://twitter.com/hellosunschein)
-Marcel Voss | [Github](https://github.com/marcelvoss/WWDC15-Scholarship) |[Video](https://vimeo.com/126154527)  | [@UIMarcel](https://twitter.com/uimarcel) |
+Marcel Voss | [Github](https://github.com/marcelvoss/WWDC15-Scholarship) |[Vimeo](https://vimeo.com/126154527)  | [@UIMarcel](https://twitter.com/uimarcel) |
 Matheus Alberton | [Github](https://github.com/matheusfrozzi/wwdcprofile)
 Matheus Rabelo | [Github](https://github.com/omatheusr/MatheusRabelo)
 Matthew Greci | [Github](https://github.com/mgreci/MatthewGreci)
