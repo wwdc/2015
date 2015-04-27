@@ -17,7 +17,7 @@ Arik Sosman | [Source](https://github.com/arik-so/WWDC-2015-Application) | [Vide
 Bastian Aigner | [Source](https://github.com/bastiaigner/WWDC15)
 Ben Rosen | [Source](https://github.com/benrosen78/2015-WWDC-Scholarship-app)
 Bliss Chapman | [Source](https://github.com/Togira/WWDC2015-Student-Application)
-Brian Huynh | [Source](https://github.com/tvnerd/Brian-Huynh)
+Brian Huynh | [Source](https://github.com/tvnerd/Brian-Huynh) | | [Twitter] (https://twitter.com/comps3)
 Bryan Keller | | [Video](https://vimeo.com/126077764)
 Cal Stephens | [Source](https://github.com/Calda/About-Cal)
 Caue Alves | [Source](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15)
