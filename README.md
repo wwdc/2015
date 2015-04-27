@@ -24,6 +24,7 @@ Brian Huynh | [Github](https://github.com/tvnerd/Brian-Huynh) | | [@comps3](http
 Bryan Keller | | [Vimeo](https://vimeo.com/126077764)
 Cal Stephens | [Github](https://github.com/Calda/About-Cal)
 Caue Alves | [Github](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15)
+Charles Truluck | [Github](https://github.com/charlestruluck/WWDC-2015) | | [@Charlestruluck_](https://twitter.com/CharlesTruluck_)
 Daniel Muckerman | [Github](https://github.com/DMuckerman/wwdc2015) | | [@dmuckerman](https://twitter.com/dmuckerman)
 David Barsky | [Github](https://github.com/davidbarsky/DavidBarskyWWDC)
 Eddie Kaiger | [Github](https://github.com/eddiekaiger/PortfolioApp)
