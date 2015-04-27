@@ -5,7 +5,7 @@ Add your own below, just submit a pull request!
 
 Name | Source | Video | Twitter | Accepted/Rejected
 --- | --- | --- | --- | ---
-Tosin Afolabi | [Source](https://github.com/TosinAF/WWDC-2015)
+Tosin Afolabi | [Source](https://github.com/TosinAF/WWDC-2015) | [Video](https://www.youtube.com/watch?v=Mo172Xj923M) | [Twitter](http://twitter.com/tosinaf)
 Andrew Robinson | [Source](https://github.com/SirArkimedes/WWDC-2015)
 Remi Santos | [Source](https://github.com/Kemcake/WWDC2015)
 Jonathan Andrade | [Source](https://github.com/jcandrade/WWDC2015)
