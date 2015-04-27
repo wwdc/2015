@@ -1,5 +1,5 @@
 ![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc15-hero_2x.png)
-# WWDC-2015-Submissions
+#WWDC2015 Student Scholarship Submissions
 List of student submissions for WWDC 2015 scholarship. <br>
 Add your own below, just submit a pull request!
 <!--http://www.alphabetize.org-->
@@ -65,7 +65,7 @@ Sarah Olson | [Github](https://github.com/saraheolson/SarahOlson)
 Sebastian Dobrincu | | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd)
 Stasys Meclazcke | [Github](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla)
 Tillson Galloway | [Github](https://github.com/tillson/wwdc-2015)
-Tosin Afolabi | [Github](https://github.com/TosinAF/WWDC-2015) | [Video](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](http://twitter.com/tosinaf)
+Tosin Afolabi | [Github](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](http://twitter.com/tosinaf)
 Trent Rand | [Github](https://github.com/trentrand/Apple-WWDC-2015-Application)
 Txai Wieser | [Github](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw)
 Tyler Flowers | [Github](https://github.com/Tdflowers/WWDC2015)
