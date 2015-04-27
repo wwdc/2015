@@ -61,7 +61,7 @@ Stasys Meclazcke | [Source](https://github.com/aeip/2015-WWDC-Scholarship-App) |
 Tillson Galloway | [Source](https://github.com/tillson/wwdc-2015)
 Tosin Afolabi | [Source](https://github.com/TosinAF/WWDC-2015)
 Trent Rand | [Source](https://github.com/trentrand/Apple-WWDC-2015-Application)
-Txai Wieser | [Source](https://github.com/txaidw/WWDC15-Txai-Wieser)
+Txai Wieser | [Source](https://github.com/txaidw/WWDC15-Txai-Wieser) | [Video](http://youtu.be/s-ZKPdDrEow) | [Twitter](https://twitter.com/txaidw)
 Tyler Flowers | [Source](https://github.com/Tdflowers/WWDC2015)
 Valentin Perez | [Source](https://github.com/valentin7/wwdc2015app)
 Viren Abhyankar | [Source](https://github.com/virena/Viren-Abhyankar)
