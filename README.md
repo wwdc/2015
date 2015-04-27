@@ -31,3 +31,4 @@ Daniel Muckerman | [Source](https://github.com/DMuckerman/wwdc2015) | | [Twitter
 Salman Husain | [Source](https://github.com/shusain93/WWDC2015)
 Zoraver Dhillon | [Source](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015)
 Stasys Meclazcke | [Source](https://github.com/aeip/2015-WWDC-Scholarship-App) | [Video](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [Twitter](https://twitter.com/Smecla)
+Arik Sosman | [Source](https://github.com/arik-so/WWDC-2015-Application) | [Video](http://youtu.be/paRnOg6_t6k) | [Twitter](https://twitter.com/arikaleph)
