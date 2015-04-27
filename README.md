@@ -66,7 +66,7 @@ Salman Husain | [Github](https://github.com/shusain93/WWDC2015)
 Sarah Olson | [Github](https://github.com/saraheolson/SarahOlson)
 Sebastian Dobrincu | | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd)
 Stasys Meclazcke | [Github](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla)
-Tillson Galloway | [Github](https://github.com/tillson/wwdc-2015)
+Tillson Galloway | [Github](https://github.com/tillson/wwdc-2015) | | [@tillson_](https://twitter.com/tillson_) | 
 Tosin Afolabi | [Github](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](http://twitter.com/tosinaf)
 Trent Rand | [Github](https://github.com/trentrand/Apple-WWDC-2015-Application)
 Txai Wieser | [Github](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw)
