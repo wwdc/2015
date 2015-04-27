@@ -70,3 +70,4 @@ Patricia Abreu | [Source](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDC
 Kat Slump | [Source](https://github.com/katslump/WWDC2015)
 MatheusAlberton | [Source](https://github.com/matheusfrozzi/wwdcprofile)
 Eddie Kaiger | [Source](https://github.com/eddiekaiger/PortfolioApp)
+Ben Honig | [Source](https://github.com/iPhonig/WWDC15-Student-Scholarship) | [Twitter](https://twitter.com/iPhonig)
