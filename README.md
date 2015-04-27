@@ -35,3 +35,4 @@ Arik Sosman | [Source](https://github.com/arik-so/WWDC-2015-Application) | [Vide
 Tillson Galloway | [Source](https://github.com/tillson/wwdc-2015)
 Zuhayeer Musa | [Source](https://github.com/zuhaz3/WWDC15) | [Video](http://youtu.be/I5WMFgD0YvM)
 Harrison Weinerman | [Source](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App)
+Yichen Cao | | | [Twitter](https://twitter.com/Schemetrical)
