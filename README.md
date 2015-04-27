@@ -33,3 +33,4 @@ Zoraver Dhillon | [Source](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2
 Stasys Meclazcke | [Source](https://github.com/aeip/2015-WWDC-Scholarship-App) | [Video](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [Twitter](https://twitter.com/Smecla)
 Tillson Galloway | [Source](https://github.com/tillson/wwdc-2015)
 Zuhayeer Musa | [Source](https://github.com/zuhaz3/WWDC15) | [Video](http://youtu.be/I5WMFgD0YvM)
+Harrison Weinerman | [Source](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App)
