@@ -61,6 +61,7 @@ Rene Argento | [Github](https://github.com/reneargento/wwdc-2015-scholarship-app
 Rodrigo Nascimento | [Github](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento)
 Salman Husain | [Github](https://github.com/shusain93/WWDC2015)
 Sarah Olson | [Github](https://github.com/saraheolson/SarahOlson)
+Sebastian Dobrincu | | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd)
 Stasys Meclazcke | [Github](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla)
 Tillson Galloway | [Github](https://github.com/tillson/wwdc-2015)
 Tosin Afolabi | [Github](https://github.com/TosinAF/WWDC-2015)
