@@ -9,6 +9,7 @@ Name | Source | Video | Twitter | Accepted/Rejected
 Aarti Parikh | [Github](https://github.com/aarti/wwdc-scholarship-app )
 Adil Virani | [Github](https://github.com/AdilVirani/WWDC-2015)
 Aleem Dhanji | [Github](https://github.com/adhanji/AleemDhanji)
+Alex Studnicka | [Github](https://github.com/alex-alex/WWDC-2015-Scholarship)
 Alston Clark | [Github](https://github.com/Acespace/WWDC15)
 Amelia Boli | [Github](https://github.com/AmeliaBoli/AmeliaBoli)
 Andrew Clissold | [Github](https://github.com/aclissold/wwdc-scholarship)
