@@ -49,7 +49,7 @@ Matheus Alberton | [Source](https://github.com/matheusfrozzi/wwdcprofile)
 Matheus Rabelo | [Source](https://github.com/omatheusr/MatheusRabelo)
 Matthew Greci | [Source](https://github.com/mgreci/MatthewGreci)
 Matthew Palmer | [Source](https://github.com/matthewpalmer/WWDC-15) | [Video](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [Twitter](http://twitter.com/_matthewpalmer)
-Marcel Voss | | | [Twitter](https://twitter.com/uimarcel) |
+Marcel Voss | [Source](https://github.com/mgreci/MatthewGreci) |[Video](https://vimeo.com/126154527)  | [@UIMarcel](https://twitter.com/uimarcel) |
 Patricia Abreu | [Source](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu)
 Patrick Balestra | [Source](https://github.com/BalestraPatrick/WWDC-2015-Scholarship)
 Ravin Sardal | [Source](https://github.com/randomite/ss-wwdc)
