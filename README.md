@@ -65,7 +65,7 @@ Txai Wieser | [Source](https://github.com/txaidw/WWDC15-Txai-Wieser)
 Tyler Flowers | [Source](https://github.com/Tdflowers/WWDC2015)
 Valentin Perez | [Source](https://github.com/valentin7/wwdc2015app)
 Viren Abhyankar | [Source](https://github.com/virena/Viren-Abhyankar)
-Yichen Cao | | | [Twitter](https://twitter.com/Schemetrical)
+Yichen Cao | | [Video](https://www.youtube.com/watch?v=e88hbvMZzN8) | [Twitter](https://twitter.com/Schemetrical)
 Zoraver Dhillon | [Source](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015)
 Zuhayeer Musa | [Source](https://github.com/zuhaz3/WWDC15) | [Video](http://youtu.be/I5WMFgD0YvM)
 <!-- Don't remove the newline -->
