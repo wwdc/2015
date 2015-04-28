@@ -40,6 +40,7 @@ Jak Tiano | [Github](https://github.com/Jakintosh/WWDC-2015-Application)
 James Brooks | [Github](https://github.com/brks/wwdc) | [Vimeo](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | 
 Jan Fruechtl | [Github](https://github.com/coolcut/WWDC-Scholarship-2015)
 Jared Stefanowicz | [Github](https://github.com/BigxMac/WWDC-2015)
+Jari Martens | [Github](https://github.com/jarimartens10/wwdc-2015)
 Jill Handy | [Github](https://github.com/Jaemu/jill-handy)
 Jimmy Liu | [Github](https://github.com/lele0108/WWDC_2015)
 Joan Molinas | [Github](https://github.com/ulidev/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=OU44fRY2PYs) | [@JoanMolinas](https://twitter.com/joanmolinas)
