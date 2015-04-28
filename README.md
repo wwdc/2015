@@ -56,6 +56,7 @@ Kat Slump | [Github](https://github.com/katslump/WWDC2015)
 Kamesh Vedula | [Github](https://github.com/kvedula/WWDC2015) | | [@iTeenageCoder](http://twitter.com/iTeenageCoder)
 Kevin Ayuque | [Github](https://github.com/KevinAyuque/WWDC-2015-Scholarship)
 Lea Marolt | [Github](https://github.com/leamars/WWDC2015) | | [@hellosunschein](https://twitter.com/hellosunschein)
+Luis Chavez | [Github](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) |[YouTube](http://youtu.be/UexdNvhXEW8)| [@Spr_Luis](https://twitter.com/spr_luis)
 Marcel Voss | [Github](https://github.com/marcelvoss/WWDC15-Scholarship) |[Vimeo](https://vimeo.com/126154527)  | [@UIMarcel](https://twitter.com/uimarcel) |
 Matheus Alberton | [Github](https://github.com/matheusfrozzi/wwdcprofile)
 Matheus Rabelo | [Github](https://github.com/omatheusr/MatheusRabelo)
