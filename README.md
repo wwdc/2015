@@ -49,6 +49,7 @@ Jordan Singer | [Github](https://github.com/jordansinger/WWDC-15) | [CloudApp](h
 Jorge Ovalle | [Github](https://github.com/lojals/JorgeOvalleWWDC)
 Josh Trommel | [Github](https://github.com/probablyjosh/JoshTrommel)
 Juan Chomali | [Github](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali)
+Jurvis Tan | [Github](https://github.com/jurvis/wwdc-2015) | [YouTube](https://youtu.be/t19pO05jzSQ) | [@jurvistan](http://twitter.com/jurvistan)
 Justin Ehlert | [Github](https://github.com/jtehlert/WWDC)
 Justin Matsnev | [Github](https://github.com/Jmats17/WWDC15-App)
 Kat Slump | [Github](https://github.com/katslump/WWDC2015)
