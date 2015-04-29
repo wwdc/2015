@@ -7,12 +7,6 @@ layout: index
 #WWDC2015 Student Scholarship Submissions
 List of student submissions for WWDC 2015 scholarship. <br>
 To add your own below, just submit a [pull request](https://github.com/WWDCStudents/2015/pulls)!
-
-| headertest1 | header 2 |
-| -------- | -------- |
-| cell 1   | cell 2   |
-| cell 3   | cell 4   |
-
 <!--http://www.alphabetize.org-->
 <!-- PLEASE INSERT YOUR NAME IN ALPHABETICAL ORDER -->
 | Name | Source | Video | Twitter | Accepted/Rejected |
@@ -74,12 +68,12 @@ To add your own below, just submit a [pull request](https://github.com/WWDCStude
 | Matheus Alberton | [Github](https://github.com/matheusfrozzi/wwdcprofile)
 | Matheus Rabelo | [Github](https://github.com/omatheusr/MatheusRabelo)
 | Matthew Greci | [Github](https://github.com/mgreci/MatthewGreci)
-| Matthew Palmer | [Github](https://github.com/matthewpalmer/WWDC-15) | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](http://| twitter.com/_matthewpalmer)
+| Matthew Palmer | [Github](https://github.com/matthewpalmer/WWDC-15) | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](http://twitter.com/_matthewpalmer)
 | Maximilian Litteral | | [YouTube](https://www.youtube.com/watch?v=Z4lGNU_uoe4&spfreload=10) | [@MaxHasADHD](https://twitter.com/maxhasadhd)
 | Neeraj Baid | [Github](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj)
 | Odie Edo-Osagie | [Github](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED)
 | Patricia Abreu | [Github](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu)
-| Patrick Balestra | [Github](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](http://youtu.be/4I3MBT2QXHw) | [@BalestraPatrick](http://twitter.com/| BalestraPatrick) 
+| Patrick Balestra | [Github](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](http://youtu.be/4I3MBT2QXHw) | [@BalestraPatrick](http://twitter.com/BalestraPatrick) 
 | Ravin Sardal | [Github](https://github.com/randomite/ss-wwdc)
 | Remi Santos | [Github](https://github.com/Kemcake/WWDC2015)
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7)
@@ -89,8 +83,8 @@ To add your own below, just submit a [pull request](https://github.com/WWDCStude
 | Sarah Olson | [Github](https://github.com/saraheolson/SarahOlson)
 | Sebastian Dobrincu | [Github](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd)
 | Stasys Meclazcke | [Github](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla)
-| Stephan Rabanser | [Github](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://| twitter.com/steverab)
-| Tillson Galloway | [Github](https://github.com/tillson/wwdc-2015) | | [@tillson_](https://twitter.com/tillson_) | 
+| Stephan Rabanser | [Github](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://twitter.com/steverab)
+| Tillson Galloway | [Github](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | 
 | Tosin Afolabi | [Github](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](http://twitter.com/tosinaf)
 | Trent Rand | [Github](https://github.com/trentrand/Apple-WWDC-2015-Application)
 | Txai Wieser | [Github](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw)
