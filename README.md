@@ -4,7 +4,8 @@ List of student submissions for WWDC 2015 scholarship. <br>
 To add your own below, just submit a [pull request](https://github.com/wwdc/2015/pulls)!
 
 <!--https://www.alphabetize.org-->
-<!-- PLEASE INSERT YOUR NAME IN ALPHABETICAL ORDER -->
+<!-- Insert your name below in alphabetical order. -->
+<!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | Source | Video | Twitter | Status |
 | ---- | ------ | ----- | ------  | ------ |
 | Aarti Parikh | [Github](https://github.com/aarti/wwdc-scholarship-app ) | | | |
