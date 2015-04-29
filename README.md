@@ -1,7 +1,7 @@
 ![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc15-hero_2x.png)
 #WWDC2015 Student Scholarship Submissions
 List of student submissions for WWDC 2015 scholarship. <br>
-Add your own below, just submit a pull request!
+Add your own below, just [submit a pull request](https://github.com/WWDCStudents/2015/pulls)!
 <!--http://www.alphabetize.org-->
 <!-- PLEASE INSERT YOUR NAME IN ALPHABETICAL ORDER -->
 Name | Source | Video | Twitter | Accepted/Rejected
