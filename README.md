@@ -33,7 +33,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | David Barsky | [Github](https://github.com/davidbarsky/DavidBarskyWWDC) | | | |
 | Eddie Kaiger | [Github](https://github.com/eddiekaiger/PortfolioApp) | | | |
 | Evan Dekhayser | [Github](https://github.com/edekhayser/WWDC-2015-Scholarship) | |[@ERDekhayser](https://twitter.com/ERDekhayser) | |
-| Filipe Alvarenga | [Github](https://github.com/filipealva/WWDC15-Scholarship) | | | |
+| Filipe Alvarenga | [Github](https://github.com/filipealva/WWDC15-Scholarship) | [Youtube](https://youtu.be/9UalIxQE5Cw)| [@filipealva](http://twitter.com/filipealva)| |
 | Finn Gaida | [Github](https://github.com/finngaida/wwdc) | | [@fga](https://twitter.com/fga) | |
 | Georges Kanaan | [Github](https://github.com/Ge0rges/WWDC-2015-Scholarship) | | [@Ge0rges13](https://twitter.com/Ge0rges13) | |
 | Giovanni Alcantara | [Github](https://github.com/gvsi/WWDC-2015) | | [@gvsi](https://twitter.com/gvsi) | |
