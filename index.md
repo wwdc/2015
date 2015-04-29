@@ -8,15 +8,10 @@ layout: index
 List of student submissions for WWDC 2015 scholarship. <br>
 To add your own below, just submit a [pull request](https://github.com/WWDCStudents/2015/pulls)!
 
-| headertest1 | header 2 |
-| -------- | -------- |
-| cell 1   | cell 2   |
-| cell 3   | cell 4   |
-
 <!--http://www.alphabetize.org-->
 <!-- PLEASE INSERT YOUR NAME IN ALPHABETICAL ORDER -->
-| Name | Source | Video | Twitter | Accepted/Rejected |
-| ---- | ------ | ----- | ------  | ----------------- |
+| Name | Source | Video | Twitter | Status |
+| ---- | ------ | ----- | ------  | ------ |
 | Aarti Parikh | [Github](https://github.com/aarti/wwdc-scholarship-app )
 | Adil Virani | [Github](https://github.com/AdilVirani/WWDC-2015)
 | Aleem Dhanji | [Github](https://github.com/adhanji/AleemDhanji)
@@ -36,7 +31,7 @@ To add your own below, just submit a [pull request](https://github.com/WWDCStude
 | Bryan Keller | | [Vimeo](https://vimeo.com/126077764)
 | Cal Stephens | [Github](https://github.com/Calda/About-Cal)
 | Caue Alves | [Github](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15)
-| Charles Truluck | [Github](https://github.com/charlestruluck/WWDC-2015) | | [@Charlestruluck_](https://twitter.com/CharlesTruluck_)
+| Charles Truluck | [Github](https://github.com/charlestruluck/WWDC-2015) | | [@Charlestruluck\_](https://twitter.com/CharlesTruluck_)
 | Daniel Muckerman | [Github](https://github.com/DMuckerman/wwdc2015) | | [@dmuckerman](https://twitter.com/dmuckerman)
 | David Barsky | [Github](https://github.com/davidbarsky/DavidBarskyWWDC)
 | Eddie Kaiger | [Github](https://github.com/eddiekaiger/PortfolioApp)
