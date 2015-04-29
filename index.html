@@ -49,7 +49,7 @@
             extensions: ['github', 'table']
         });
 
-        function error(message) {
+        function errorHandler(message) {
             $('.indicator').hide();
             $('.error.indicator').show();
             $('.error.indicator .error-message').html(message);
@@ -68,11 +68,11 @@
                             $('.md-content').html(html);
                         })
                         .fail(function(jqXHR, textStatus, error) {
-                            error(error);
+                            errorHandler(error);
                         });
                 })
                 .fail(function(jqXHR, textStatus, error) {
-                    error(error);
+                    errorHandler(error);
                 });
         });
     </script>
