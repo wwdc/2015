@@ -60,7 +60,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Justin Ehlert | [Github](https://github.com/jtehlert/WWDC) | | | |
 | Justin Matsnev | [Github](https://github.com/Jmats17/WWDC15-App) | | | |
 | Kat Slump | [Github](https://github.com/katslump/WWDC2015) | | | |
-| Kamesh Vedula | [Github](https://github.com/kvedula/WWDC2015) | | [@iTeenageCoder](https://twitter.com/iTeenageCoder) | |
+| Kamesh Vedula | [Github](https://github.com/kvedula/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=BZpe8h0Ox_w) | [@iTeenageCoder](https://twitter.com/iTeenageCoder) | |
 | Kevin Ayuque | [Github](https://github.com/KevinAyuque/WWDC-2015-Scholarship) | | | |
 | Lea Marolt | [Github](https://github.com/leamars/WWDC2015) | | [@hellosunschein](https://twitter.com/hellosunschein) | |
 | Lorenzo Gentile | [Github](https://github.com/Lorenzo45/WWDC2015) | | | |
