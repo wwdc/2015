@@ -13,7 +13,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Adil Virani | [Github](https://github.com/AdilVirani/WWDC-2015) | | | |
 | Aleem Dhanji | [Github](https://github.com/adhanji/AleemDhanji) | | | |
 | Alex Studnicka | [Github](https://github.com/alex-alex/WWDC-2015-Scholarship) | | | |
-| Alston Clark | [Github](https://github.com/Acespace/WWDC15) | | | |
+| Alston Clark | [Github](https://github.com/Acespace/WWDC15) | | | |f
 | Aman Jain | [Github](https://github.com/amannayak0007/Aman-Jain) | [YouTube](https://www.youtube.com/watch?v=9iRIbTPamNQ) | [@amanj203](https://twitter.com/amanj203) | |
 | Amelia Boli | [Github](https://github.com/AmeliaBoli/AmeliaBoli) | | | |
 | Andrew Clissold | [Github](https://github.com/aclissold/wwdc-scholarship) | | | |
@@ -36,7 +36,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Diego dos Santos | [Github](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo)| | |
 | Eddie Kaiger | [Github](https://github.com/eddiekaiger/PortfolioApp) | | | |
 | Evan Dekhayser | [Github](https://github.com/edekhayser/WWDC-2015-Scholarship) | |[@ERDekhayser](https://twitter.com/ERDekhayser) | |
-| Filipe Alvarenga | [Github](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://youtu.be/9UalIxQE5Cw)| [@filipealva](http://twitter.com/filipealva)| |
+| Filipe Alvarenga | [Github](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://www.youtube.com/watch?v=9UalIxQE5Cw)| [@filipealva](https://twitter.com/filipealva)| |
 | Finn Gaida | [Github](https://github.com/finngaida/wwdc) | [YouTube](https://www.youtube.com/watch?v=yY-ZYiP68bE) | [@fga](https://twitter.com/fga) | |
 | Georges Kanaan | [Github](https://github.com/Ge0rges/WWDC-2015-Scholarship) | | [@Ge0rges13](https://twitter.com/Ge0rges13) | |
 | Giovanni Alcantara | [Github](https://github.com/gvsi/WWDC-2015) | | [@gvsi](https://twitter.com/gvsi) | |
@@ -52,13 +52,13 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Joan Molinas | [Github](https://github.com/ulidev/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=OU44fRY2PYs) | [@JoanMolinas](https://twitter.com/joanmolinas) | |
 | John Harding | | [YouTube](https://www.youtube.com/watch?v=c63fmWDcn08) | [@JohnnyHarding](https://twitter.com/JohnnyHarding) | |
 | Jonathan Andrade | [Github](https://github.com/jcandrade/WWDC2015) | | | |
-| Jonathan Chan | | [YouTube](https://youtu.be/dgaVsig4dKs) | | |
+| Jonathan Chan | | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | | |
 | Jordan Singer | [Github](https://github.com/jordansinger/WWDC-15) | [CloudApp](https://cl.ly/am7C) | [@jsngr](https://twitter.com/jsngr) | |
 | Jorge Ovalle | [Github](https://github.com/lojals/JorgeOvalleWWDC) | | | |
 | Josh Trommel | [Github](https://github.com/probablyjosh/JoshTrommel) | | | |
 | Joshua Liu | [Github](https://github.com/joshliu/WWDC-2015) | | [@joshjoshliuliu](https://twitter.com/joshjoshliuliu) | |
 | Juan Chomali | [Github](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | |
-| Jurvis Tan | [Github](https://github.com/jurvis/wwdc-2015) | [YouTube](https://youtu.be/t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | |
+| Jurvis Tan | [Github](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | |
 | Justin Ehlert | [Github](https://github.com/jtehlert/WWDC) | | | |
 | Justin Matsnev | [Github](https://github.com/Jmats17/WWDC15-App) | | | |
 | Kat Slump | [Github](https://github.com/katslump/WWDC2015) | | | |
@@ -66,7 +66,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Kevin Ayuque | [Github](https://github.com/KevinAyuque/WWDC-2015-Scholarship) | | | |
 | Lea Marolt | [Github](https://github.com/leamars/WWDC2015) | | [@hellosunschein](https://twitter.com/hellosunschein) | |
 | Lorenzo Gentile | [Github](https://github.com/Lorenzo45/WWDC2015) | | | |
-| Luis Chavez | [Github](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) |[YouTube](https://youtu.be/UexdNvhXEW8)| [@Spr_Luis](https://twitter.com/spr_luis) | |
+| Luis Chavez | [Github](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) |[YouTube](https://www.youtube.com/watch?v=UexdNvhXEW8)| [@Spr_Luis](https://twitter.com/spr_luis) | |
 | Marcel Voss | [Github](https://github.com/marcelvoss/WWDC15-Scholarship) |[Vimeo](https://vimeo.com/126154527)  | [@UIMarcel](https://twitter.com/uimarcel) | |
 | Matheus Alberton | [Github](https://github.com/matheusfrozzi/wwdcprofile) | | | |
 | Matheus Rabelo | [Github](https://github.com/omatheusr/MatheusRabelo) | | | |
@@ -76,7 +76,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Neeraj Baid | [Github](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj) | |
 | Odie Edo-Osagie | [Github](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED) | |
 | Patricia Abreu | [Github](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu) | | | |
-| Patrick Balestra | [Github](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://youtu.be/4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | |
+| Patrick Balestra | [Github](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://www.youtube.com/watch?v=4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | |
 | Ravin Sardal | [Github](https://github.com/randomite/ss-wwdc) | | | |
 | Remi Santos | [Github](https://github.com/Kemcake/WWDC2015) | | | |
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7) | |
