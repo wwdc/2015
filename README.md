@@ -11,6 +11,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | ---- | ------ | ----- | ------  | ------ |
 | Aarti Parikh | [Github](https://github.com/aarti/wwdc-scholarship-app ) | | | |
 | Adil Virani | [Github](https://github.com/AdilVirani/WWDC-2015) | | | |
+| Ahmed Fathi | [Github](https://github.com/AFathi/WWDC2015) |[@iafapps](https://twitter.com/iafapps)| | |
 | Aleem Dhanji | [Github](https://github.com/adhanji/AleemDhanji) | | | |
 | Alex Studnicka | [Github](https://github.com/alex-alex/WWDC-2015-Scholarship) | | | |
 | Alston Clark | [Github](https://github.com/Acespace/WWDC15) | | | |
