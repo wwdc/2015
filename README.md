@@ -96,7 +96,8 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Tyler Flowers | [GitHub](https://github.com/Tdflowers/WWDC2015) | | | |
 | Valentin Perez | [GitHub](https://github.com/valentin7/wwdc2015app) | | | |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
-| Xiomara Figueroa | [Github](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | | 
+| Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7]
+(https://twitter.com/_xiomara7) | | 
 | Yichen Cao | | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | |
 | Zoraver Dhillon | [GitHub](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015) | | | |
 | Zuhayeer Musa | [GitHub](https://github.com/zuhaz3/WWDC15) | [YouTube](https://www.youtube.com/watch?v=I5WMFgD0YvM) | | |
