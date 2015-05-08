@@ -9,7 +9,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | Source | Video | Twitter | Status |
 | ---- | ------ | ----- | ------  | ------ |
-| Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app ) | | | Rejected |
+| Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app ) | | | |
 | Adil Virani | [GitHub](https://github.com/AdilVirani/WWDC-2015) | | | |
 | Ahmed Fathi | [GitHub](https://github.com/AFathi/WWDC2015) | | [@iafapps](https://twitter.com/iafapps) | |
 | Aleem Dhanji | [GitHub](https://github.com/adhanji/AleemDhanji) | | | |
@@ -90,7 +90,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted | |
 | Stephan Rabanser | [GitHub](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://twitter.com/steverab) | |
 | Tillson Galloway | [GitHub](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | |
-| Tosin Afolabi | [GitHub](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](https://twitter.com/tosinaf) | |
+| Tosin Afolabi | [GitHub](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](https://twitter.com/tosinaf) | Rejected |
 | Trent Rand | [GitHub](https://github.com/trentrand/Apple-WWDC-2015-Application) | | | |
 | Txai Wieser | [GitHub](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw) | |
 | Tyler Flowers | [GitHub](https://github.com/Tdflowers/WWDC2015) | | | |
