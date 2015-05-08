@@ -19,7 +19,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Amelia Boli | [GitHub](https://github.com/AmeliaBoli/AmeliaBoli) | | | |
 | Andrew Clissold | [GitHub](https://github.com/aclissold/wwdc-scholarship) | | | |
 | Andrew Overton | [GitHub](https://github.com/andrewoverton/WWDC-Scholarship-App) | | | |
-Andrew Robinson | [GitHub](https://github.com/SirArkimedes/WWDC-2015) | | [@SirArkimedes](https://twitter.com/SirArkimedes) | Accepted |
+| Andrew Robinson | [GitHub](https://github.com/SirArkimedes/WWDC-2015) | | [@SirArkimedes](https://twitter.com/SirArkimedes) | Accepted |
 | Arik Sosman | [GitHub](https://github.com/arik-so/WWDC-2015-Application) | [YouTube](https://www.youtube.com/watch?v=paRnOg6_t6k) | [@arikaleph](https://twitter.com/arikaleph) | |
 | Ash Bhat | [GitHub](https://github.com/ashbhat/wwdc-2015) | | [@theashbhat](https://twitter.com/theashbhat) | |
 | Bastian Aigner | [GitHub](https://github.com/bastiaigner/WWDC15) | | | |
