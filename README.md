@@ -9,7 +9,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | Source | Video | Twitter | Status |
 | ---- | ------ | ----- | ------  | ------ |
-| Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app ) | | | |
+| Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app ) | | | Rejected |
 | Adil Virani | [GitHub](https://github.com/AdilVirani/WWDC-2015) | | | |
 | Ahmed Fathi | [GitHub](https://github.com/AFathi/WWDC2015) | | [@iafapps](https://twitter.com/iafapps) | |
 | Aleem Dhanji | [GitHub](https://github.com/adhanji/AleemDhanji) | | | |
