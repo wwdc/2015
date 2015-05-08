@@ -95,6 +95,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Txai Wieser | [GitHub](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw) | |
 | Tyler Flowers | [GitHub](https://github.com/Tdflowers/WWDC2015) | | | |
 | Valentin Perez | [GitHub](https://github.com/valentin7/wwdc2015app) | | | |
+| Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
 | Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | | 
 | Yichen Cao | | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | |
