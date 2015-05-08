@@ -37,7 +37,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Diego dos Santos | [GitHub](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo)| | |
 | Eddie Kaiger | [GitHub](https://github.com/eddiekaiger/PortfolioApp) | | | |
 | Evan Dekhayser | [GitHub](https://github.com/edekhayser/WWDC-2015-Scholarship) | |[@ERDekhayser](https://twitter.com/ERDekhayser) | |
-| Filipe Alvarenga | [GitHub](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://www.youtube.com/watch?v=9UalIxQE5Cw)| [@filipealva](https://twitter.com/filipealva)| |
+| Filipe Alvarenga | [GitHub](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://www.youtube.com/watch?v=9UalIxQE5Cw)| [@filipealva](https://twitter.com/filipealva)| Accepted |
 | Finn Gaida | [GitHub](https://github.com/finngaida/wwdc) | [YouTube](https://www.youtube.com/watch?v=yY-ZYiP68bE) | [@fga](https://twitter.com/fga) | |
 | Georges Kanaan | [GitHub](https://github.com/Ge0rges/WWDC-2015-Scholarship) | | [@Ge0rges13](https://twitter.com/Ge0rges13) | |
 | Giovanni Alcantara | [GitHub](https://github.com/gvsi/WWDC-2015) | | [@gvsi](https://twitter.com/gvsi) | |
