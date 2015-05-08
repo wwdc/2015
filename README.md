@@ -84,7 +84,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Rene Argento | [GitHub](https://github.com/reneargento/wwdc-2015-scholarship-application) | | | |
 | Rodrigo Leite | |[YouTube](https://youtu.be/PNKl0TjWa1E)|[@rodrigo_frelei](https://twitter.com/rodrigo_frelei)| |
 | Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
-| Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | | | |
+| Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [Instagram](http://instagram.com/aero2x) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
 | Sebastian Dobrincu | [GitHub](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd) | |
 | Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted | |
