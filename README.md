@@ -89,7 +89,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [Instagram](http://instagram.com/aero2x) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
 | Sebastian Dobrincu | [GitHub](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd) | |
-| Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted |
+| Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted | |
 | Stephan Rabanser | [GitHub](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://twitter.com/steverab) | |
 | Tillson Galloway | [GitHub](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | Accepted |
 | Tosin Afolabi | [GitHub](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](https://twitter.com/tosinaf) | Rejected |
@@ -97,7 +97,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Txai Wieser | [GitHub](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw) | |
 | Tyler Flowers | [GitHub](https://github.com/Tdflowers/WWDC2015) | | | |
 | Valentin Perez | [GitHub](https://github.com/valentin7/wwdc2015app) | | | |
-| Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | |
+| Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | Accepted |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
 | Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | | 
 | Yichen Cao | [GitHub](https://github.com/Schemetrical/WWDC15) | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | Rejected |
