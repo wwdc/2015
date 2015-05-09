@@ -56,7 +56,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking)| Accepted |
 | John Harding | | [YouTube](https://www.youtube.com/watch?v=c63fmWDcn08) | [@JohnnyHarding](https://twitter.com/JohnnyHarding) | |
 | Jonathan Andrade | [GitHub](https://github.com/jcandrade/WWDC2015) | | | |
-| Jonathan Chan | | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | | Rejected |
+| Jonathan Chan | [GitHub](https://github.com/NathanJang/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | [reddit](https://www.reddit.com/user/NathanJang) | Rejected |
 | Jordan Singer | [GitHub](https://github.com/jordansinger/WWDC-15) | [CloudApp](https://cl.ly/am7C) | [@jsngr](https://twitter.com/jsngr) | |
 | Jorge Ovalle | [GitHub](https://github.com/lojals/JorgeOvalleWWDC) | | | |
 | Josh Trommel | [GitHub](https://github.com/probablyjosh/JoshTrommel) | | | |
