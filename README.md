@@ -26,7 +26,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Ben Rosen | [GitHub](https://github.com/benrosen78/2015-WWDC-Scholarship-app) | | | |
 | Bliss Chapman | [GitHub](https://github.com/Togira/WWDC2015-Student-Application) | | | |
 | Bojan Stefanovic | [GitHub](https://github.com/bojanstef/WWDC15-Scholarship-Application) | | [@bojanstef](https://twitter.com/bojanstef) | |
-| Braeden Mayer | | | | [@Braeden_Mayer](https://twitter.com/Braeden_Mayer) | Accepted |
+| Braeden Mayer | | | [@Braeden_Mayer](https://twitter.com/Braeden_Mayer) | Accepted |
 | Brandon Shaw | [GitHub](https://github.com/unobrandon/WWDC15-Brandon) | | [@my_shaw](https://twitter.com/my_shaw) | |
 | Brian Huynh | [GitHub](https://github.com/tvnerd/Brian-Huynh) | | [@comps3](https://twitter.com/comps3) | |
 | Bryan Keller | | [Vimeo](https://vimeo.com/126077764) | | |
