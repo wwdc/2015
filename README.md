@@ -28,7 +28,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Bojan Stefanovic | [GitHub](https://github.com/bojanstef/WWDC15-Scholarship-Application) | | [@bojanstef](https://twitter.com/bojanstef) | |
 | Braeden Mayer | | | [@Braeden_Mayer](https://twitter.com/Braeden_Mayer) | Accepted |
 | Brandon Shaw | [GitHub](https://github.com/unobrandon/WWDC15-Brandon) | | [@my_shaw](https://twitter.com/my_shaw) | |
-| Brian Huynh | [GitHub](https://github.com/tvnerd/Brian-Huynh) | | [@comps3](https://twitter.com/comps3) | |
+| Brian Huynh | [GitHub](https://github.com/tvnerd/Brian-Huynh) | | [@comps3](https://twitter.com/comps3) | Rejected |
 | Bryan Keller | | [Vimeo](https://vimeo.com/126077764) | | |
 | Cal Stephens | [GitHub](https://github.com/Calda/About-Cal) | | | |
 | Caue Alves | [GitHub](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15) | | | |
@@ -62,7 +62,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Josh Trommel | [GitHub](https://github.com/probablyjosh/JoshTrommel) | | | |
 | Joshua Liu | [GitHub](https://github.com/joshliu/WWDC-2015) | | [@joshjoshliuliu](https://twitter.com/joshjoshliuliu) | |
 | Juan Chomali | [GitHub](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | |
-| Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected | 
+| Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected |
 | Justin Ehlert | [GitHub](https://github.com/jtehlert/WWDC) | | | |
 | Justin Matsnev | [GitHub](https://github.com/Jmats17/WWDC15-App) | | | |
 | Kat Slump | [GitHub](https://github.com/katslump/WWDC2015) | [Vimeo](https://vimeo.com/126157477) | [@KatSlump](https://twitter.com/KatSlump)| |
@@ -102,7 +102,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Valentin Perez | [GitHub](https://github.com/valentin7/wwdc2015app) | | | |
 | Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | Accepted |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
-| Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | | 
+| Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | |
 | Yichen Cao | [GitHub](https://github.com/Schemetrical/WWDC15) | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | Rejected |
 | Zoraver Dhillon | [GitHub](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015) | | | |
 | Zuhayeer Musa | [GitHub](https://github.com/zuhaz3/WWDC15) | [YouTube](https://www.youtube.com/watch?v=I5WMFgD0YvM) | | Rejected |
