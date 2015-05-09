@@ -35,26 +35,26 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Charles Truluck | [GitHub](https://github.com/charlestruluck/WWDC-2015) | | [@Charlestruluck\_](https://twitter.com/CharlesTruluck_) | |
 | Daniel Muckerman | [GitHub](https://github.com/DMuckerman/wwdc2015) | | [@dmuckerman](https://twitter.com/dmuckerman) | |
 | David Barsky | [GitHub](https://github.com/davidbarsky/DavidBarskyWWDC) | | | |
-| Diego dos Santos | [GitHub](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo)| | |
+| Diego dos Santos | [GitHub](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo) | | |
 | Eddie Kaiger | [GitHub](https://github.com/eddiekaiger/PortfolioApp) | | | |
 | Enrique Melgarejo | [GitHub](https://github.com/Enriquecm/EnriqueCM) | | [@IkeMelgarejo](https://twitter.com/IkeMelgarejo) | Accepted |
 | Erik van der Plas | | | [@erikvdplas](https://twitter.com/erikvdplas) | Accepted |
-| Evan Dekhayser | [GitHub](https://github.com/edekhayser/WWDC-2015-Scholarship) | |[@ERDekhayser](https://twitter.com/ERDekhayser) | Rejected |
-| Filipe Alvarenga | [GitHub](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://www.youtube.com/watch?v=9UalIxQE5Cw)| [@filipealva](https://twitter.com/filipealva)| Accepted |
+| Evan Dekhayser | [GitHub](https://github.com/edekhayser/WWDC-2015-Scholarship) | | [@ERDekhayser](https://twitter.com/ERDekhayser) | Rejected |
+| Filipe Alvarenga | [GitHub](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://www.youtube.com/watch?v=9UalIxQE5Cw) | [@filipealva](https://twitter.com/filipealva) | Accepted |
 | Finn Gaida | [GitHub](https://github.com/finngaida/wwdc) | [YouTube](https://www.youtube.com/watch?v=yY-ZYiP68bE) | [@fga](https://twitter.com/fga) | |
 | Georges Kanaan | [GitHub](https://github.com/Ge0rges/WWDC-2015-Scholarship) | | [@Ge0rges13](https://twitter.com/Ge0rges13) | |
 | Giovanni Alcantara | [GitHub](https://github.com/gvsi/WWDC-2015) | | [@gvsi](https://twitter.com/gvsi) | |
 | Harrison Weinerman | [GitHub](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App) | | | |
 | Ipalibo Whyte | [GitHub](https://github.com/IpaliboWhyte/WWDC-2015) | | | |
 | Jak Tiano | [GitHub](https://github.com/Jakintosh/WWDC-2015-Application) | | | |
-| James Brooks || [Vimeo](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | Rejected |
+| James Brooks | | [Vimeo](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | Rejected |
 | Jan Fruechtl | [GitHub](https://github.com/coolcut/WWDC-Scholarship-2015) | | | |
 | Jared Stefanowicz | [GitHub](https://github.com/BigxMac/WWDC-2015) | | | |
 | Jari Martens | [GitHub](https://github.com/jarimartens10/wwdc-2015) | | | |
 | Jill Handy | [GitHub](https://github.com/Jaemu/jill-handy) | | | |
 | Jimmy Liu | [GitHub](https://github.com/lele0108/WWDC_2015) | | | |
 | Joan Molinas | [GitHub](https://github.com/ulidev/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=OU44fRY2PYs) | [@JoanMolinas](https://twitter.com/joanmolinas) | |
-| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking)| Accepted |
+| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking) | Accepted |
 | John Harding | | [YouTube](https://www.youtube.com/watch?v=c63fmWDcn08) | [@JohnnyHarding](https://twitter.com/JohnnyHarding) | |
 | Jonathan Andrade | [GitHub](https://github.com/jcandrade/WWDC2015) | | | |
 | Jonathan Chan | [GitHub](https://github.com/NathanJang/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | [/u/NathanJang](https://www.reddit.com/user/NathanJang) | Rejected |
@@ -66,13 +66,13 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected |
 | Justin Ehlert | [GitHub](https://github.com/jtehlert/WWDC) | | | |
 | Justin Matsnev | [GitHub](https://github.com/Jmats17/WWDC15-App) | | | |
-| Kat Slump | [GitHub](https://github.com/katslump/WWDC2015) | [Vimeo](https://vimeo.com/126157477) | [@KatSlump](https://twitter.com/KatSlump)| |
+| Kat Slump | [GitHub](https://github.com/katslump/WWDC2015) | [Vimeo](https://vimeo.com/126157477) | [@KatSlump](https://twitter.com/KatSlump) | |
 | Kamesh Vedula | [GitHub](https://github.com/kvedula/WWDC2015) | | [@iTeenageCoder](https://twitter.com/iTeenageCoder) | |
 | Kevin Ayuque | [GitHub](https://github.com/KevinAyuque/WWDC-2015-Scholarship) | | | |
 | Lea Marolt | [GitHub](https://github.com/leamars/WWDC2015) | | [@hellosunschein](https://twitter.com/hellosunschein) | |
 | Lorenzo Gentile | [GitHub](https://github.com/Lorenzo45/WWDC2015) | | | |
-| Luis Chavez | [GitHub](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) |[YouTube](https://www.youtube.com/watch?v=UexdNvhXEW8)| [@Spr_Luis](https://twitter.com/spr_luis) | Accepted |
-| Marcel Voss | [GitHub](https://github.com/marcelvoss/WWDC15-Scholarship) |[Video](https://vimeo.com/126154527)  | [@UIMarcel](https://twitter.com/uimarcel) | Accepted |
+| Luis Chavez | [GitHub](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) | [YouTube](https://www.youtube.com/watch?v=UexdNvhXEW8) | [@Spr_Luis](https://twitter.com/spr_luis) | Accepted |
+| Marcel Voss | [GitHub](https://github.com/marcelvoss/WWDC15-Scholarship) | [Video](https://vimeo.com/126154527) | [@UIMarcel](https://twitter.com/uimarcel) | Accepted |
 | Matheus Alberton | [GitHub](https://github.com/matheusfrozzi/wwdcprofile) | | | |
 | Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | | |
 | Matthew Greci | [GitHub](https://github.com/mgreci/MatthewGreci) | | | |
@@ -89,7 +89,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7) | Accepted |
 | Rene Argento | [GitHub](https://github.com/reneargento/wwdc-2015-scholarship-application) | | | |
 | Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](http://twitter.com/rodrigoschmitt) | Accepted |
-| Rodrigo Leite | |[YouTube](https://youtu.be/PNKl0TjWa1E)|[@rodrigo_frelei](https://twitter.com/rodrigo_frelei)| |
+| Rodrigo Leite | | [YouTube](https://youtu.be/PNKl0TjWa1E) | [@rodrigo_frelei](https://twitter.com/rodrigo_frelei) | |
 | Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
 | Salavat Khanov | [GitHub](https://github.com/khanov/WWDC-2015) | [YouTube](https://youtu.be/uuk-5Fur9Nc) | [@khanov](https://twitter.com/khanov) | Accepted |
 | Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [@aero2x](http://instagram.com/aero2x) | Accepted |
@@ -105,7 +105,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Valentin Perez | [GitHub](https://github.com/valentin7/wwdc2015app) | | | |
 | Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | Accepted |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
-| Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | Accepted |
+| Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | | [@_xiomara7](https://twitter.com/_xiomara7) | Accepted |
 | Yichen Cao | [GitHub](https://github.com/Schemetrical/WWDC15) | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | Rejected |
 | Zoraver Dhillon | [GitHub](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015) | | | |
 | Zuhayeer Musa | [GitHub](https://github.com/zuhaz3/WWDC15) | [YouTube](https://www.youtube.com/watch?v=I5WMFgD0YvM) | | Rejected |
