@@ -76,7 +76,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | | |
 | Matthew Greci | [GitHub](https://github.com/mgreci/MatthewGreci) | | | |
 | Matthew Palmer | [GitHub](https://github.com/matthewpalmer/WWDC-15) | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](https://twitter.com/_matthewpalmer) | |
-| Maximilian Litteral | | [YouTube](https://www.youtube.com/watch?v=Z4lGNU_uoe4&spfreload=10) | [@MaxHasADHD](https://twitter.com/maxhasadhd) | |
+| Maximilian Litteral | | [YouTube](https://www.youtube.com/watch?v=Z4lGNU_uoe4&spfreload=10) | [@MaxHasADHD](https://twitter.com/maxhasadhd) | Accepted |
 | Neeraj Baid | [GitHub](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj) | Accepted |
 | Odie Edo-Osagie | [GitHub](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED) | |
 | Patricia Abreu | [GitHub](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu) | | | |
