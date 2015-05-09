@@ -52,6 +52,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Jill Handy | [GitHub](https://github.com/Jaemu/jill-handy) | | | |
 | Jimmy Liu | [GitHub](https://github.com/lele0108/WWDC_2015) | | | |
 | Joan Molinas | [GitHub](https://github.com/ulidev/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=OU44fRY2PYs) | [@JoanMolinas](https://twitter.com/joanmolinas) | |
+| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking)| Accepted|
 | John Harding | | [YouTube](https://www.youtube.com/watch?v=c63fmWDcn08) | [@JohnnyHarding](https://twitter.com/JohnnyHarding) | |
 | Jonathan Andrade | [GitHub](https://github.com/jcandrade/WWDC2015) | | | |
 | Jonathan Chan | | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | | |
