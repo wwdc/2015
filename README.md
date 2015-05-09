@@ -75,6 +75,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Lorenzo Gentile | [GitHub](https://github.com/Lorenzo45/WWDC2015) | | | |
 | Luis Chavez | [GitHub](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) | [YouTube](https://www.youtube.com/watch?v=UexdNvhXEW8) | [@Spr_Luis](https://twitter.com/spr_luis) | Accepted |
 | Marcel Voss | [GitHub](https://github.com/marcelvoss/WWDC15-Scholarship) | [Video](https://vimeo.com/126154527) | [@UIMarcel](https://twitter.com/uimarcel) | Accepted |
+| Marcos Borges | | [YouTube](https://www.youtube.com/watch?v=thB-skN19Q0) | [@marcosxray](https://twitter.com/marcosxray) | Accepted |
 | Matheus Alberton | [GitHub](https://github.com/matheusfrozzi/wwdcprofile) | | | |
 | Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | | |
 | Matthew Greci | [GitHub](https://github.com/mgreci/MatthewGreci) | | | |
