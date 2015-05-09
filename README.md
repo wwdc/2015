@@ -41,7 +41,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Erik van der Plas | | | [@erikvdplas](https://twitter.com/erikvdplas) | Accepted |
 | Evan Dekhayser | [GitHub](https://github.com/edekhayser/WWDC-2015-Scholarship) | | [@ERDekhayser](https://twitter.com/ERDekhayser) | Rejected |
 | Filipe Alvarenga | [GitHub](https://github.com/filipealva/WWDC15-Scholarship) | [YouTube](https://www.youtube.com/watch?v=9UalIxQE5Cw) | [@filipealva](https://twitter.com/filipealva) | Accepted |
-| Finn Gaida | [GitHub](https://github.com/finngaida/wwdc) | [YouTube](https://www.youtube.com/watch?v=yY-ZYiP68bE) | [@fga](https://twitter.com/fga) | |
+| Finn Gaida | [GitHub](https://github.com/finngaida/wwdc) | [YouTube](https://www.youtube.com/watch?v=yY-ZYiP68bE) | [@fga](https://twitter.com/fga) | Accepted |
 | Georges Kanaan | [GitHub](https://github.com/Ge0rges/WWDC-2015-Scholarship) | | [@Ge0rges13](https://twitter.com/Ge0rges13) | |
 | Giovanni Alcantara | [GitHub](https://github.com/gvsi/WWDC-2015) | | [@gvsi](https://twitter.com/gvsi) | |
 | Harrison Weinerman | [GitHub](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App) | | | |
