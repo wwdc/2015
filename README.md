@@ -15,7 +15,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Aleem Dhanji | [GitHub](https://github.com/adhanji/AleemDhanji) | | | |
 | Alex Studnicka | [GitHub](https://github.com/alex-alex/WWDC-2015-Scholarship) | | | |
 | Alston Clark | [GitHub](https://github.com/Acespace/WWDC15) | | | |
-| Aman Jain | [GitHub](https://github.com/amannayak0007/Aman-Jain) | [YouTube](https://www.youtube.com/watch?v=9iRIbTPamNQ) | [@amanj203](https://twitter.com/amanj203) | |
+| Aman Jain | [GitHub](https://github.com/amannayak0007/Aman-Jain) | [YouTube](https://www.youtube.com/watch?v=9iRIbTPamNQ) | [@amanj203](https://twitter.com/amanj203) | Accepted |
 | Amelia Boli | [GitHub](https://github.com/AmeliaBoli/AmeliaBoli) | | | |
 | Andrew Clissold | [GitHub](https://github.com/aclissold/wwdc-scholarship) | | | |
 | Andrew Overton | [GitHub](https://github.com/andrewoverton/WWDC-Scholarship-App) | | | |
