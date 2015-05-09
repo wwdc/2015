@@ -52,7 +52,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Jill Handy | [GitHub](https://github.com/Jaemu/jill-handy) | | | |
 | Jimmy Liu | [GitHub](https://github.com/lele0108/WWDC_2015) | | | |
 | Joan Molinas | [GitHub](https://github.com/ulidev/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=OU44fRY2PYs) | [@JoanMolinas](https://twitter.com/joanmolinas) | |
-| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking)| Accepted|
+| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking)| Accepted |
 | John Harding | | [YouTube](https://www.youtube.com/watch?v=c63fmWDcn08) | [@JohnnyHarding](https://twitter.com/JohnnyHarding) | |
 | Jonathan Andrade | [GitHub](https://github.com/jcandrade/WWDC2015) | | | |
 | Jonathan Chan | | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | | |
@@ -91,7 +91,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [Instagram](http://instagram.com/aero2x) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
 | Sebastian Dobrincu | [GitHub](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd) | |
-| Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted | |
+| Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted |
 | Stephan Rabanser | [GitHub](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://twitter.com/steverab) | |
 | Tillson Galloway | [GitHub](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | Accepted |
 | Tosin Afolabi | [GitHub](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](https://twitter.com/tosinaf) | Rejected |
