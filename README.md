@@ -101,4 +101,5 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Yichen Cao | | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | |
 | Zoraver Dhillon | [GitHub](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015) | | | |
 | Zuhayeer Musa | [GitHub](https://github.com/zuhaz3/WWDC15) | [YouTube](https://www.youtube.com/watch?v=I5WMFgD0YvM) | | |
+| Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](http://twitter.com/rodrigoschmitt) | Accepted |
 <!-- Don't remove the newline -->
