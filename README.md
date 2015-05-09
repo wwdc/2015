@@ -7,17 +7,17 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 <!--https://www.alphabetize.org-->
 <!-- Insert your name below in alphabetical order. -->
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
-| Name | Source | Video | Twitter | Status |
-| ---- | ------ | ----- | ------  | ------ |
+| Name | Source | Video | Social | Status |
+| ---- | ------ | ----- | -----  | ------ |
 | Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app ) | | | |
 | Adil Virani | [GitHub](https://github.com/AdilVirani/WWDC-2015) | | | |
 | Ahmed Fathi | [GitHub](https://github.com/AFathi/WWDC2015) | | [@iafapps](https://twitter.com/iafapps) | Accepted |
 | Aleem Dhanji | [GitHub](https://github.com/adhanji/AleemDhanji) | | | |
 | Alex Studnicka | [GitHub](https://github.com/alex-alex/WWDC-2015-Scholarship) | | | |
 | Alston Clark | [GitHub](https://github.com/Acespace/WWDC15) | | | |
-| Aman Jain | [GitHub](https://github.com/amannayak0007/Aman-Jain) | [YouTube](https://www.youtube.com/watch?v=9iRIbTPamNQ) | [@amanj203](https://twitter.com/amanj203) | |
+| Aman Jain | [GitHub](https://github.com/amannayak0007/Aman-Jain) | [YouTube](https://www.youtube.com/watch?v=9iRIbTPamNQ) | [@amanj203](https://twitter.com/amanj203) | Accepted |
 | Amelia Boli | [GitHub](https://github.com/AmeliaBoli/AmeliaBoli) | | | |
-| Andrew Clissold | [GitHub](https://github.com/aclissold/wwdc-scholarship) | | | |
+| Andrew Clissold | [GitHub](https://github.com/aclissold/wwdc-scholarship) | | [@aclissold](https://twitter.com/aclissold) | Accepted |
 | Andrew Overton | [GitHub](https://github.com/andrewoverton/WWDC-Scholarship-App) | | | |
 | Andrew Robinson | [GitHub](https://github.com/SirArkimedes/WWDC-2015) | | [@SirArkimedes](https://twitter.com/SirArkimedes) | Accepted |
 | Arik Sosman | [GitHub](https://github.com/arik-so/WWDC-2015-Application) | [YouTube](https://www.youtube.com/watch?v=paRnOg6_t6k) | [@arikaleph](https://twitter.com/arikaleph) | Rejected |
@@ -59,7 +59,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Josh Trommel | [GitHub](https://github.com/probablyjosh/JoshTrommel) | | | |
 | Joshua Liu | [GitHub](https://github.com/joshliu/WWDC-2015) | | [@joshjoshliuliu](https://twitter.com/joshjoshliuliu) | |
 | Juan Chomali | [GitHub](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | |
-| Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | |
+| Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected | 
 | Justin Ehlert | [GitHub](https://github.com/jtehlert/WWDC) | | | |
 | Justin Matsnev | [GitHub](https://github.com/Jmats17/WWDC15-App) | | | |
 | Kat Slump | [GitHub](https://github.com/katslump/WWDC2015) | [Vimeo](https://vimeo.com/126157477) | [@KatSlump](https://twitter.com/KatSlump)| |
@@ -78,13 +78,15 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Odie Edo-Osagie | [GitHub](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED) | |
 | Patricia Abreu | [GitHub](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu) | | | |
 | Patrick Balestra | [GitHub](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://www.youtube.com/watch?v=4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | |
+| Prithiv Dev | | | [@Prithivdev](https://twitter.com/prithivdev) | Accepted |
 | Ravin Sardal | [GitHub](https://github.com/randomite/ss-wwdc) | | | |
 | Remi Santos | [GitHub](https://github.com/Kemcake/WWDC2015) | | | |
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7) | Accepted |
 | Rene Argento | [GitHub](https://github.com/reneargento/wwdc-2015-scholarship-application) | | | |
+| Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](http://twitter.com/rodrigoschmitt) | Accepted |
 | Rodrigo Leite | |[YouTube](https://youtu.be/PNKl0TjWa1E)|[@rodrigo_frelei](https://twitter.com/rodrigo_frelei)| |
 | Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
-| Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | | | |
+| Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [Instagram](http://instagram.com/aero2x) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
 | Sebastian Dobrincu | [GitHub](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd) | |
 | Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted |
@@ -98,7 +100,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
 | Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | | 
-| Yichen Cao | | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | |
+| Yichen Cao | [GitHub](https://github.com/Schemetrical/WWDC15) | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | Rejected |
 | Zoraver Dhillon | [GitHub](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015) | | | |
 | Zuhayeer Musa | [GitHub](https://github.com/zuhaz3/WWDC15) | [YouTube](https://www.youtube.com/watch?v=I5WMFgD0YvM) | | Rejected |
 <!-- Don't remove the newline -->
