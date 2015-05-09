@@ -98,7 +98,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Vignesh Varadarajan | | [YouTube](https://www.youtube.com/watch?v=yvDgPOn-1nQ) | | |
 | Viren Abhyankar | [GitHub](https://github.com/virena/Viren-Abhyankar) | | | |
 | Xiomara Figueroa | [GitHub](https://github.com/Xiomara7/cv) | |[@_xiomara7](https://twitter.com/_xiomara7) | | 
-| Yichen Cao | | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | |
+| Yichen Cao | [GitHub](https://github.com/Schemetrical/WWDC15) | [YouTube](https://www.youtube.com/watch?v=e88hbvMZzN8) | [@schemetrical](https://twitter.com/Schemetrical) | Rejected |
 | Zoraver Dhillon | [GitHub](https://github.com/teghzoraver/Zoraver-Dhillon-WWDC-2015) | | | |
 | Zuhayeer Musa | [GitHub](https://github.com/zuhaz3/WWDC15) | [YouTube](https://www.youtube.com/watch?v=I5WMFgD0YvM) | | |
 <!-- Don't remove the newline -->
