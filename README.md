@@ -63,7 +63,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Josh Bruce | | | [@Brucey125](https://twitter.com/Brucey125) | Accepted |
 | Josh Trommel | [GitHub](https://github.com/probablyjosh/JoshTrommel) | | | |
 | Joshua Liu | [GitHub](https://github.com/joshliu/WWDC-2015) | | [@joshjoshliuliu](https://twitter.com/joshjoshliuliu) | |
-| Juan Chomali | [GitHub](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | |
+| Juan Chomali | [GitHub](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | Accepted |
 | Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected |
 | Justin Ehlert | [GitHub](https://github.com/jtehlert/WWDC) | | | |
 | Justin Matsnev | [GitHub](https://github.com/Jmats17/WWDC15-App) | | | |
