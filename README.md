@@ -103,7 +103,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Snaheth Thumathy | [GitHub](https://github.com/snaheth/WWDC2015) | | | Accepted |
 | Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted |
 | Stephan Rabanser | [GitHub](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://twitter.com/steverab) | |
-| Thomas Vagning| [GitHub](https://github.com/Vagning/WWDC-2015)| | [@Vagning](https://twitter.com/vagning) | Accepted |
+| Thomas Vagning | [GitHub](https://github.com/Vagning/WWDC-2015) | | [@Vagning](https://twitter.com/vagning) | Accepted |
 | Tillson Galloway | [GitHub](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | Accepted |
 | Tosin Afolabi | [GitHub](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](https://twitter.com/tosinaf) | Rejected |
 | Trent Rand | [GitHub](https://github.com/trentrand/Apple-WWDC-2015-Application) | | | |
