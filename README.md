@@ -33,7 +33,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Cal Stephens | [GitHub](https://github.com/Calda/About-Cal) | | | |
 | Caue Alves | [GitHub](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15) | | | |
 | Charles Truluck | [GitHub](https://github.com/charlestruluck/WWDC-2015) | | [@Charlestruluck\_](https://twitter.com/CharlesTruluck_) | |
-| Daniel Chen | [GitHub](https://github.com/cheniel/wwdc-scholarship-2015) || | Accepted |
+| Daniel Chen | [GitHub](https://github.com/cheniel/wwdc-scholarship-2015) | | | Accepted |
 | Daniel Muckerman | [GitHub](https://github.com/DMuckerman/wwdc2015) | | [@dmuckerman](https://twitter.com/dmuckerman) | |
 | David Barsky | [GitHub](https://github.com/davidbarsky/DavidBarskyWWDC) | | | |
 | Diego dos Santos | [GitHub](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo) | | |
