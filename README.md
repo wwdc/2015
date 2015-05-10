@@ -56,7 +56,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Jill Handy | [GitHub](https://github.com/Jaemu/jill-handy) | | | |
 | Jimmy Liu | [GitHub](https://github.com/lele0108/WWDC_2015) | | | |
 | Joan Molinas | [GitHub](https://github.com/ulidev/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=OU44fRY2PYs) | [@JoanMolinas](https://twitter.com/joanmolinas) | |
-| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](http://twitter.com/anviking) | Accepted |
+| Johannes Lund | [GitHub](https://github.com/Anviking/WWDC) | | [@anviking](https://twitter.com/anviking) | Accepted |
 | John Harding | | [YouTube](https://www.youtube.com/watch?v=c63fmWDcn08) | [@JohnnyHarding](https://twitter.com/JohnnyHarding) | |
 | Jonathan Andrade | [GitHub](https://github.com/jcandrade/WWDC2015) | | | |
 | Jonathan Chan | [GitHub](https://github.com/NathanJang/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=dgaVsig4dKs) | [/u/NathanJang](https://www.reddit.com/user/NathanJang) | Rejected |
@@ -93,11 +93,11 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Remi Santos | [GitHub](https://github.com/Kemcake/WWDC2015) | | [@Kemcake](https://twitter.com/kemcake) | Accepted |
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7) | Accepted |
 | Rene Argento | [GitHub](https://github.com/reneargento/wwdc-2015-scholarship-application) | | | |
-| Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](http://twitter.com/rodrigoschmitt) | Accepted |
+| Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](https://twitter.com/rodrigoschmitt) | Accepted |
 | Rodrigo Leite | | [YouTube](https://youtu.be/PNKl0TjWa1E) | [@rodrigo_frelei](https://twitter.com/rodrigo_frelei) | |
 | Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
 | Salavat Khanov | [GitHub](https://github.com/khanov/WWDC-2015) | [YouTube](https://youtu.be/uuk-5Fur9Nc) | [@khanov](https://twitter.com/khanov) | Accepted |
-| Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [@aero2x](http://instagram.com/aero2x) | Accepted |
+| Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [@aero2x](https://instagram.com/aero2x) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
 | Sebastian Dobrincu | [GitHub](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd) | Rejected |
 | Snaheth Thumathy | [GitHub](https://github.com/snaheth/WWDC2015) | | | Accepted |
