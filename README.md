@@ -86,7 +86,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Neeraj Baid | [GitHub](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj) | Accepted |
 | Odie Edo-Osagie | [GitHub](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED) | |
 | Patricia Abreu | [GitHub](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu) | | | |
-| Patrick Balestra | [GitHub](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://www.youtube.com/watch?v=4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | Accepted|
+| Patrick Balestra | [GitHub](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://www.youtube.com/watch?v=4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | Accepted |
 | Patrick Murray | [GitHub](https://github.com/PatMurrayDEV/wwdc15-application) | [Vimeo](https://vimeo.com/127332925) | [@_patmurray](https://twitter.com/_patmurray) | Accepted |
 | Prithiv Dev | | | [@Prithivdev](https://twitter.com/prithivdev) | Accepted |
 | Ravin Sardal | [GitHub](https://github.com/randomite/ss-wwdc) | | | |
