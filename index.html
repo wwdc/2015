@@ -64,6 +64,8 @@
                             var html = showdown.makeHtml(data);
                             $('.md-content').html(html);
                             $('.md-content a').attr('target', '_blank');
+                            $('.md-content td p:contains(Accepted)').css('color', 'green');
+                            $('.md-content td p:contains(Rejected)').css('color', 'red');
                         })
                         .fail(function(jqXHR, textStatus, error) {
                             errorHandler(error);
