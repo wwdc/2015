@@ -94,6 +94,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Remi Santos | [GitHub](https://github.com/Kemcake/WWDC2015) | | [@Kemcake](https://twitter.com/kemcake) | Accepted |
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7) | Accepted |
 | Rene Argento | [GitHub](https://github.com/reneargento/wwdc-2015-scholarship-application) | | | |
+| Robert Mozayeni | [GitHub](https://github.com/rsmoz/WWDC-2015-Scholarship-Application) | | [@rsmoz](https://twitter.com/rsmoz) | Accepted |
 | Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](https://twitter.com/rodrigoschmitt) | Accepted |
 | Rodrigo Leite | | [YouTube](https://youtu.be/PNKl0TjWa1E) | [@rodrigo_frelei](https://twitter.com/rodrigo_frelei) | |
 | Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
