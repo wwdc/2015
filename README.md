@@ -78,6 +78,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Leo Mehlig | [GitHub](https://github.com/leoMehlig/EnigmaBombe) | | [@leoMehlig](https://twitter.com/leoMehlig) | Accepted |
 | Lorenzo Gentile | [GitHub](https://github.com/Lorenzo45/WWDC2015) | | | Accepted |
 | Luis Chavez | [GitHub](https://github.com/Spr-Luis/WWDC-Scholarship-Application-2015) | [YouTube](https://www.youtube.com/watch?v=UexdNvhXEW8) | [@Spr_Luis](https://twitter.com/spr_luis) | Accepted |
+| Lukas Schmidt | [GitHub](https://github.com/lightsprint09/wwdc-2015-scholarship) | | [@lightsprint09](https://twitter.com/lightsprint09) | Accepted |
 | Marcel Voss | [GitHub](https://github.com/marcelvoss/WWDC15-Scholarship) | [Vimeo](https://vimeo.com/126154527) | [@UIMarcel](https://twitter.com/uimarcel) | Accepted |
 | Marcos Borges | | [YouTube](https://www.youtube.com/watch?v=thB-skN19Q0) | [@marcosxray](https://twitter.com/marcosxray) | Accepted |
 | Matheus Alberton | [GitHub](https://github.com/matheusfrozzi/wwdcprofile) | | | |
