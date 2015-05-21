@@ -38,7 +38,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Daniel Muckerman | [GitHub](https://github.com/DMuckerman/wwdc2015) | | [@dmuckerman](https://twitter.com/dmuckerman) | |
 | David Barsky | [GitHub](https://github.com/davidbarsky/DavidBarskyWWDC) | | | |
 | Diego dos Santos | [GitHub](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo) | | |
-| Eddie Kaiger | [GitHub](https://github.com/eddiekaiger/PortfolioApp) | | | |
+| Eddie Kaiger | [GitHub](https://github.com/eddiekaiger/PortfolioApp) | | | Accepted |
 | Enrique Melgarejo | [GitHub](https://github.com/Enriquecm/EnriqueCM) | | [@IkeMelgarejo](https://twitter.com/IkeMelgarejo) | Accepted |
 | Erik van der Plas | | | [@erikvdplas](https://twitter.com/erikvdplas) | Accepted |
 | Evan Dekhayser | [GitHub](https://github.com/edekhayser/WWDC-2015-Scholarship) | | [@ERDekhayser](https://twitter.com/ERDekhayser) | Rejected |
