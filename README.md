@@ -48,6 +48,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Georges Kanaan | [GitHub](https://github.com/Ge0rges/WWDC-2015-Scholarship) | | [@Ge0rges13](https://twitter.com/Ge0rges13) | |
 | Giovanni Alcantara | [GitHub](https://github.com/gvsi/WWDC-2015) | | [@gvsi](https://twitter.com/gvsi) | |
 | Guilherme Moresco Bisotto | [GitHub](https://github.com/GuilhermeMBisotto/WWDC2015) | | | Accepted |
+| Guilherme Leite Colares | [GitHub](https://github.com/guicolares/WWDC-2015-scholarship) | [YouTube](https://www.youtube.com/watch?v=c3BODiT722E) | | Accepted |
 | Harrison Weinerman | [GitHub](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App) | | | |
 | Ipalibo Whyte | [GitHub](https://github.com/IpaliboWhyte/WWDC-2015) | | | Accepted |
 | Isaac Rodriguez | | | [@sideround](https://twitter.com/sideround) | Accepted |
