@@ -50,6 +50,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Guilherme Moresco Bisotto | [GitHub](https://github.com/GuilhermeMBisotto/WWDC2015) | | | Accepted |
 | Harrison Weinerman | [GitHub](https://github.com/harrisonw1/Harrison-Weinerman-WWDC-2015-Scholarship-App) | | | |
 | Ipalibo Whyte | [GitHub](https://github.com/IpaliboWhyte/WWDC-2015) | | | Accepted |
+| Isaac Rodriguez | | | [@sideround](https://twitter.com/sideround) | Accepted |
 | Jak Tiano | [GitHub](https://github.com/Jakintosh/WWDC-2015-Application) | | | |
 | James Brooks | | [Vimeo](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | Rejected |
 | Jan Fruechtl | [GitHub](https://github.com/coolcut/WWDC-Scholarship-2015) | | | |
