@@ -108,7 +108,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Rodrigo Leite | | [YouTube](https://youtu.be/PNKl0TjWa1E) | [@rodrigo_frelei](https://twitter.com/rodrigo_frelei) | |
 | Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
 | Sachin Patel | [GitHub](https://github.com/gizmosachin/WWDC15) | | [@gizmosachin](https://twitter.com/gizmosachin) | Accepted |
-| Sahand Edrisian | | | [@Sahandedrisian](https://twitter.com/sahandedrisian) | Accepted |
+| Sahand Edrisian | [GitHub](https://github.com/SahandTheGreat/WWDC-2015-Scholarship-Winner) | | [@Sahandedrisian](https://twitter.com/sahandedrisian) | Accepted |
 | Salavat Khanov | [GitHub](https://github.com/khanov/WWDC-2015) | [YouTube](https://youtu.be/uuk-5Fur9Nc) | [@khanov](https://twitter.com/khanov) | Accepted |
 | Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [@aero2x](https://instagram.com/aero2x) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
