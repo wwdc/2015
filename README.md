@@ -88,7 +88,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Marcel Voss | [GitHub](https://github.com/marcelvoss/WWDC15-Scholarship) | | [@UIMarcel](https://twitter.com/uimarcel) | Accepted |
 | Marcos Borges | | [YouTube](https://www.youtube.com/watch?v=thB-skN19Q0) | [@marcosxray](https://twitter.com/marcosxray) | Accepted |
 | Matheus Alberton | [GitHub](https://github.com/matheusfrozzi/wwdcprofile) | | | |
-| Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | | |
+| Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | [@OMatheusR](http://twitter.com/OMatheusR) | Accepted |
 | Matthew Greci | [GitHub](https://github.com/mgreci/MatthewGreci) | | | |
 | Matthew Palmer | [GitHub](https://github.com/matthewpalmer/WWDC-15) | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](https://twitter.com/_matthewpalmer) | |
 | Maximilian Litteral | | [YouTube](https://www.youtube.com/watch?v=Z4lGNU_uoe4&spfreload=10) | [@MaxHasADHD](https://twitter.com/maxhasadhd) | Accepted |
