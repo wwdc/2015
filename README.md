@@ -95,6 +95,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Neeraj Baid | [GitHub](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj) | Accepted |
 | Nicola Giancecchi | [GitHub](https://github.com/nicorsm/Nicola-Giancecchi-WWDC15-App) | | [@nicorsm](https://www.twitter.com/nicorsm) | Accepted |
 | Odie Edo-Osagie | [GitHub](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED) | |
+| Oscar Morrison |  | [YouTube](https://www.youtube.com/watch?v=4Tlb7cBmnOE) | [@oscargemorrison](https://twitter.com/oscargemorrison) | Accepted |
 | Patricia Abreu | [GitHub](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu) | | | |
 | Patrick Balestra | [GitHub](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://www.youtube.com/watch?v=4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | Accepted |
 | Patrick Murray | [GitHub](https://github.com/PatMurrayDEV/wwdc15-application) | [Vimeo](https://vimeo.com/127332925) | [@_patmurray](https://twitter.com/_patmurray) | Accepted |
