@@ -100,6 +100,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Patrick Balestra | [GitHub](https://github.com/BalestraPatrick/WWDC-2015-Scholarship) | [YouTube](https://www.youtube.com/watch?v=4I3MBT2QXHw) | [@BalestraPatrick](https://twitter.com/BalestraPatrick) | Accepted |
 | Patrick Murray | [GitHub](https://github.com/PatMurrayDEV/wwdc15-application) | [Vimeo](https://vimeo.com/127332925) | [@_patmurray](https://twitter.com/_patmurray) | Accepted |
 | Prithiv Dev | | | [@Prithivdev](https://twitter.com/prithivdev) | Accepted |
+| Raphael Silva | [GitHub](https://github.com/peagasilva/WWDC15-Scholarship) | | [@peagasilva](https://twitter.com/peagasilva) | Accepted |
 | Ravin Sardal | [GitHub](https://github.com/randomite/ss-wwdc) | | | |
 | Remi Santos | [GitHub](https://github.com/Kemcake/WWDC2015) | | [@Kemcake](https://twitter.com/kemcake) | Accepted |
 | Remsudeen Rameez | | | [@Remzr7](https://twitter.com/remzr7) | Accepted |
