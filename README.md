@@ -24,6 +24,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Arik Sosman | [GitHub](https://github.com/arik-so/WWDC-2015-Application) | [YouTube](https://www.youtube.com/watch?v=paRnOg6_t6k) | [@arikaleph](https://twitter.com/arikaleph) | Rejected |
 | Ash Bhat | [GitHub](https://github.com/ashbhat/wwdc-2015) | | [@theashbhat](https://twitter.com/theashbhat) | Accepted |
 | Bastian Aigner | [GitHub](https://github.com/bastiaigner/WWDC15) | | | Accepted |
+| Ben Maliel | | | [@BenMaliel](https://twitter.com/BenMaliel) | Accepted |
 | Ben Rosen | [GitHub](https://github.com/benrosen78/2015-WWDC-Scholarship-app) | | | |
 | Bliss Chapman | [GitHub](https://github.com/Togira/WWDC2015-Student-Application) | | | |
 | Bojan Stefanovic | [GitHub](https://github.com/bojanstef/WWDC15-Scholarship-Application) | | [@bojanstef](https://twitter.com/bojanstef) | |
