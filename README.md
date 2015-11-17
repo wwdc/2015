@@ -30,7 +30,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Bojan Stefanovic | [GitHub](https://github.com/bojanstef/WWDC15-Scholarship-Application) | | [@bojanstef](https://twitter.com/bojanstef) | Accepted |
 | Braeden Mayer | | | [@Braeden_Mayer](https://twitter.com/Braeden_Mayer) | Accepted |
 | Brandon Shaw | [GitHub](https://github.com/unobrandon/WWDC15-Brandon) | | [@my_shaw](https://twitter.com/my_shaw) | |
-| Brian Huynh | [GitHub](https://github.com/tvnerd/Brian-Huynh) | | [@comps3](https://twitter.com/comps3) | Rejected |
+| Brian Huynh | [GitHub](https://github.com/comps3/Brian-Huynh) | | [@comps3](https://twitter.com/comps3) | Rejected |
 | Bryan Keller | | [Vimeo](https://vimeo.com/126077764) | | |
 | Cal Stephens | [GitHub](https://github.com/Calda/About-Cal) | | | |
 | Caue Alves | [GitHub](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15) | | | |
@@ -70,7 +70,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Jordan Singer | [GitHub](https://github.com/jordansinger/WWDC-15) | [CloudApp](https://cl.ly/am7C) | [@jsngr](https://twitter.com/jsngr) | |
 | Jorge Ovalle | [GitHub](https://github.com/lojals/JorgeOvalleWWDC) | | | |
 | Josh Bruce | | | [@Brucey125](https://twitter.com/Brucey125) | Accepted |
-| Josh Trommel | [GitHub](https://github.com/probablyjosh/JoshTrommel) | | [@JoshTrommel](https://twitter.com/JoshTrommel) | Rejected |
+| Josh Trommel | [GitHub](https://github.com/trommel/JoshTrommel) | | [@JoshTrommel](https://twitter.com/JoshTrommel) | Rejected |
 | Joshua Liu | [GitHub](https://github.com/joshliu/WWDC-2015) | | [@joshjoshliuliu](https://twitter.com/joshjoshliuliu) | |
 | Juan Chomali | [GitHub](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | Accepted |
 | Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected |
@@ -89,12 +89,12 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Marcel Voss | [GitHub](https://github.com/marcelvoss/WWDC15-Scholarship) | | [@UIMarcel](https://twitter.com/uimarcel) | Accepted |
 | Marcos Borges | | [YouTube](https://www.youtube.com/watch?v=thB-skN19Q0) | [@marcosxray](https://twitter.com/marcosxray) | Accepted |
 | Matheus Alberton | [GitHub](https://github.com/matheusfrozzi/wwdcprofile) | | | |
-| Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | [@OMatheusR](http://twitter.com/OMatheusR) | Accepted |
+| Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | [@OMatheusR](https://twitter.com/OMatheusR) | Accepted |
 | Matthew Greci | [GitHub](https://github.com/mgreci/MatthewGreci) | | | |
 | Matthew Palmer | [GitHub](https://github.com/matthewpalmer/WWDC-15) | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](https://twitter.com/_matthewpalmer) | |
 | Maximilian Litteral | | [YouTube](https://www.youtube.com/watch?v=Z4lGNU_uoe4&spfreload=10) | [@MaxHasADHD](https://twitter.com/maxhasadhd) | Accepted |
 | Neeraj Baid | [GitHub](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj) | Accepted |
-| Nicola Giancecchi | [GitHub](https://github.com/nicorsm/Nicola-Giancecchi-WWDC15-App) | | [@nicorsm](https://www.twitter.com/nicorsm) | Accepted |
+| Nicola Giancecchi | [GitHub](https://github.com/nicorsm/Nicola-Giancecchi-WWDC15-App) | | [@nicorsm](https://twitter.com/nicorsm) | Accepted |
 | Odie Edo-Osagie | [GitHub](https://github.com/oduwa/WWDC2015-Scholarship-App) | | [@odieED](https://twitter.com/odieED) | |
 | Oscar Morrison |  | [YouTube](https://www.youtube.com/watch?v=4Tlb7cBmnOE) | [@oscargemorrison](https://twitter.com/oscargemorrison) | Accepted |
 | Patricia Abreu | [GitHub](https://github.com/PatriciaAbreu/WWDC/tree/master/WWDCPatriciaAbreu) | | | |
@@ -123,7 +123,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Tillson Galloway | [GitHub](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | Accepted |
 | Tom de Ruiter | | [YouTube](https://www.youtube.com/watch?v=JaVJUHh56Rk) | [Twitter](https://twitter.com/tomgekeerd) | |
 | Tosin Afolabi | [GitHub](https://github.com/TosinAF/WWDC-2015) | [YouTube](https://www.youtube.com/watch?v=Mo172Xj923M) | [@tosinaf](https://twitter.com/tosinaf) | Rejected |
-| Trent Rand | [GitHub](https://github.com/trentrand/Apple-WWDC-2015-Application) | | | |
+| Trent Rand | [GitHub](https://github.com/trentrand/WWDC-2015-Scholarship) | | | |
 | Txai Wieser | [GitHub](https://github.com/txaidw/WWDC15-Txai-Wieser) | [YouTube](https://www.youtube.com/watch?v=s-ZKPdDrEow) | [@txaidw](https://twitter.com/txaidw) | |
 | Tyler Flowers | [GitHub](https://github.com/Tdflowers/WWDC2015) | | | |
 | Valentin Perez | [GitHub](https://github.com/valentin7/wwdc2015app) | | | |
