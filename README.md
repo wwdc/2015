@@ -26,7 +26,6 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Bastian Aigner | [GitHub](https://github.com/bastiaigner/WWDC15) | | | Accepted |
 | Ben Maliel | | | [@BenMaliel](https://twitter.com/BenMaliel) | Accepted |
 | Ben Rosen | [GitHub](https://github.com/benrosen78/2015-WWDC-Scholarship-app) | | | |
-| Bliss Chapman | [GitHub](https://github.com/Togira/WWDC2015-Student-Application) | | | |
 | Bojan Stefanovic | [GitHub](https://github.com/bojanstef/WWDC15-Scholarship-Application) | | [@bojanstef](https://twitter.com/bojanstef) | Accepted |
 | Braeden Mayer | | | [@Braeden_Mayer](https://twitter.com/Braeden_Mayer) | Accepted |
 | Brandon Shaw | [GitHub](https://github.com/unobrandon/WWDC15-Brandon) | | [@my_shaw](https://twitter.com/my_shaw) | |
@@ -38,7 +37,6 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Daniel Chen | [GitHub](https://github.com/cheniel/wwdc-scholarship-2015) | | | Accepted |
 | Daniel Eisterhold | [GitHub](https://github.com/deisterhold/WWDC-Submission) | | [@daneisterhold](https://twitter.com/daneisterhold) | Accepted |
 | Daniel Muckerman | [GitHub](https://github.com/DMuckerman/wwdc2015) | | [@dmuckerman](https://twitter.com/dmuckerman) | |
-| David Barsky | [GitHub](https://github.com/davidbarsky/DavidBarskyWWDC) | | | |
 | Diego dos Santos | [GitHub](https://github.com/diegodossantos95) | [YouTube](https://www.youtube.com/watch?v=svdHeZCTXNo) | | |
 | Eddie Kaiger | [GitHub](https://github.com/eddiekaiger/PortfolioApp) | | | Accepted |
 | Enrique Melgarejo | [GitHub](https://github.com/Enriquecm/EnriqueCM) | | [@IkeMelgarejo](https://twitter.com/IkeMelgarejo) | Accepted |
@@ -56,7 +54,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Ipalibo Whyte | [GitHub](https://github.com/IpaliboWhyte/WWDC-2015) | | | Accepted |
 | Isaac Rodriguez | | | [@sideround](https://twitter.com/sideround) | Accepted |
 | Jak Tiano | [GitHub](https://github.com/Jakintosh/WWDC-2015-Application) | | | |
-| James Brooks | | [Vimeo](https://vimeo.com/126175507) | [@_jbrks](https://twitter.com/_jbrks) | Rejected |
+| James Brooks | | | [@_jbrks](https://twitter.com/_jbrks) | Rejected |
 | Jan Fruechtl | [GitHub](https://github.com/coolcut/WWDC-Scholarship-2015) | | | |
 | Jared Stefanowicz | [GitHub](https://github.com/BigxMac/WWDC-2015) | | [@JaredStef](https://twitter.com/JaredStef) | Rejected |
 | Jari Martens | [GitHub](https://github.com/jarimartens10/wwdc-2015) | | | |
@@ -75,7 +73,6 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Juan Chomali | [GitHub](https://github.com/jchomali/WWDC15App) | [YouTube](https://www.youtube.com/watch?v=7WFw3axl8lM) | [@JChomali](https://twitter.com/jchomali) | Accepted |
 | Jurvis Tan | [GitHub](https://github.com/jurvis/wwdc-2015) | [YouTube](https://www.youtube.com/watch?v=t19pO05jzSQ) | [@jurvistan](https://twitter.com/jurvistan) | Rejected |
 | Justin Ehlert | [GitHub](https://github.com/jtehlert/WWDC) | | | |
-| Justin Matsnev | [GitHub](https://github.com/Jmats17/WWDC15-App) | | | |
 | Kai Aldag | | [YouTube](https://www.youtube.com/watch?v=tYKSzLFIIic) | [@KaiCode2](https://twitter.com/Kaicode2) | Accepted |
 | Kat Slump | [GitHub](https://github.com/katslump/WWDC2015) | [Vimeo](https://vimeo.com/126157477) | [@KatSlump](https://twitter.com/KatSlump) | |
 | Kamesh Vedula | [Github](https://github.com/kvedula/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=BZpe8h0Ox_w) | [@iTeenageCoder](https://twitter.com/iTeenageCoder) | |
@@ -90,8 +87,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Marcos Borges | | [YouTube](https://www.youtube.com/watch?v=thB-skN19Q0) | [@marcosxray](https://twitter.com/marcosxray) | Accepted |
 | Matheus Alberton | [GitHub](https://github.com/matheusfrozzi/wwdcprofile) | | | |
 | Matheus Rabelo | [GitHub](https://github.com/omatheusr/MatheusRabelo) | | [@OMatheusR](https://twitter.com/OMatheusR) | Accepted |
-| Matthew Greci | [GitHub](https://github.com/mgreci/MatthewGreci) | | | |
-| Matthew Palmer | [GitHub](https://github.com/matthewpalmer/WWDC-15) | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](https://twitter.com/_matthewpalmer) | |
+| Matthew Palmer | | [Dropbox](https://www.dropbox.com/s/7mhn66qp57dsyxc/wwdc-15-demo.mov?dl=0) | [@_matthewpalmer](https://twitter.com/_matthewpalmer) | |
 | Maximilian Litteral | | [YouTube](https://www.youtube.com/watch?v=Z4lGNU_uoe4&spfreload=10) | [@MaxHasADHD](https://twitter.com/maxhasadhd) | Accepted |
 | Neeraj Baid | [GitHub](https://github.com/neerajbaid/WWDC2015) | | [@2neeraj](https://twitter.com/2neeraj) | Accepted |
 | Nicola Giancecchi | [GitHub](https://github.com/nicorsm/Nicola-Giancecchi-WWDC15-App) | | [@nicorsm](https://twitter.com/nicorsm) | Accepted |
@@ -109,7 +105,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Robert Mozayeni | [GitHub](https://github.com/rsmoz/WWDC-2015-Scholarship-Application) | [Vimeo](https://vimeo.com/126084087) | [@rsmoz](https://twitter.com/rsmoz) | Accepted |
 | Rodrigo Andrade | [GitHub](https://github.com/rodrigoschmitt/rodrigoandrade) | | [@rodrigoschmitt](https://twitter.com/rodrigoschmitt) | Accepted |
 | Rodrigo Leite | | [YouTube](https://youtu.be/PNKl0TjWa1E) | [@rodrigo_frelei](https://twitter.com/rodrigo_frelei) | |
-| Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | [@orodrigok](https://twitter.com/odrigok) | Accepted |
+| Rodrigo Nascimento | [GitHub](https://github.com/rodrigok/wwwdc-2015-scholarship-rodrigo-nascimento) | | | Accepted |
 | Sachin Patel | [GitHub](https://github.com/gizmosachin/WWDC15) | | [@gizmosachin](https://twitter.com/gizmosachin) | Accepted |
 | Sahand Edrisian | [GitHub](https://github.com/SahandTheGreat/WWDC-2015-Scholarship-Winner) | | [@Sahandedrisian](https://twitter.com/sahandedrisian) | Accepted |
 | Salavat Khanov | [GitHub](https://github.com/khanov/WWDC-2015) | [YouTube](https://youtu.be/uuk-5Fur9Nc) | [@khanov](https://twitter.com/khanov) | Accepted |
