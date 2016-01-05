@@ -9,11 +9,11 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | Source | Video | Social Media | Status |
 | ---- | ------ | ----- | ------------ | ------ |
-| Alexander Groß | [GitHub](https://github.com/alexthedeveloper) | | [@iamalexgross](https://twitter.com/iamalexgross) | Accepted |
 | Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app ) | | | |
 | Adil Virani | [GitHub](https://github.com/AdilVirani/WWDC-2015) | | | |
 | Ahmed Fathi | [GitHub](https://github.com/AFathi/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=JgWXbT7npC0) | [@iafapps](https://twitter.com/iafapps) | Accepted |
 | Aleem Dhanji | [GitHub](https://github.com/adhanji/AleemDhanji) | | | |
+| Alexander Groß | [GitHub](https://github.com/alexthedeveloper) | | [@iamalexgross](https://twitter.com/iamalexgross) | Accepted |
 | Alex Studnicka | [GitHub](https://github.com/alex-alex/WWDC-2015-Scholarship) | | | |
 | Alston Clark | [GitHub](https://github.com/Acespace/WWDC15) | | | |
 | Aman Jain | [GitHub](https://github.com/amannayak0007/Aman-Jain) | [YouTube](https://www.youtube.com/watch?v=9iRIbTPamNQ) | [@amanj203](https://twitter.com/amanj203) | Accepted |
