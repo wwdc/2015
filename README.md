@@ -114,6 +114,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Sahand Edrisian | [GitHub](https://github.com/SahandTheGreat/WWDC-2015-Scholarship-Winner) | | [@Sahandedrisian](https://twitter.com/sahandedrisian) | Accepted |
 | Salavat Khanov | [GitHub](https://github.com/khanov/WWDC-2015) | [YouTube](https://youtu.be/uuk-5Fur9Nc) | [@khanov](https://twitter.com/khanov) | Accepted |
 | Salman Husain | [GitHub](https://github.com/shusain93/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=tcxozqPQzng) | [@aero2x](https://instagram.com/aero2x) | Accepted |
+| Sam Eckert | | | [@Sam0711er](https://twitter.com/Sam0711er) | Accepted |
 | Sarah Olson | [GitHub](https://github.com/saraheolson/SarahOlson) | | | |
 | Sebastian Dobrincu | [GitHub](https://github.com/sebyddd/WWDC2015-Submission) | [YouTube](https://www.youtube.com/watch?v=8FIxP19dM1Q) | [@Sebyddd](https://twitter.com/Sebyddd) | Rejected |
 | Snaheth Thumathy | [GitHub](https://github.com/snaheth/WWDC2015) | | | Accepted |
