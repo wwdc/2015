@@ -1,4 +1,4 @@
-[![WWDC Banner](https://devimages.apple.com.edgekey.net/wwdc/images/wwdc15-hero_2x.png)](https://developer.apple.com/wwdc/)
+[![WWDC Banner](http://cdn.macrumors.com/article-new/2015/04/Apple-WWDC-2015-Logo.png?retina)](https://developer.apple.com/wwdc/)
 # WWDC 2015 Scholarship Submissions
 
 List of student submissions for the WWDC 2015 scholarship.
