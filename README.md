@@ -122,6 +122,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Stasys Meclazcke | [GitHub](https://github.com/aeip/2015-WWDC-Scholarship-App) | [YouTube](https://www.youtube.com/watch?v=Q05r7ALxmZY) | [@Smecla](https://twitter.com/Smecla) | Accepted |
 | Stephan Rabanser | [GitHub](https://github.com/steverab/WWDC-2015) | [Dropbox](https://dl.dropboxusercontent.com/u/14601827/WWDC-2015-Scholarship.mp4) | [@steverab](https://twitter.com/steverab) | |
 | Stephen McMillan | [GitHub](https://github.com/StephenMcMillan/WWDC-2015-Scholarship-App) | | [@Stevowevo77](https://twitter.com/Stevowevo77) | Accepted |
+| Stephen Melinyshyn | [GitHub](https://github.com/Melinysh/WWDC-2015-Student-App) || [@Melinysh](https://twitter.com/Melinysh) | Accepted |
 | Thomas Vagning | [GitHub](https://github.com/Vagning/WWDC-2015) | | [@Vagning](https://twitter.com/vagning) | Accepted |
 | Tillson Galloway | [GitHub](https://github.com/tillson/wwdc-2015) | | [@tillson\_](https://twitter.com/tillson_) | Accepted |
 | Tom de Ruiter | | [YouTube](https://www.youtube.com/watch?v=JaVJUHh56Rk) | [Twitter](https://twitter.com/tomgekeerd) | |
