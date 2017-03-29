@@ -82,6 +82,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Kat Slump | [GitHub](https://github.com/katslump/WWDC2015) | [Vimeo](https://vimeo.com/126157477) | [@KatSlump](https://twitter.com/KatSlump) | |
 | Kamesh Vedula | [Github](https://github.com/kvedula/WWDC2015) | [YouTube](https://www.youtube.com/watch?v=BZpe8h0Ox_w) | [@iTeenageCoder](https://twitter.com/iTeenageCoder) | |
 | Kevin Ayuque | [GitHub](https://github.com/KevinAyuque/WWDC-2015-Scholarship) | | | |
+| Kyle Spadaro | | | [@kylespadaro](https://twitter.com/kylespadaro) | Accepted |
 | Laurin Brandner | [GitHub](https://github.com/larcus94/Scholarship) | | [@larcus94](https://twitter.com/larcus94) | Accepted |
 | Lea Marolt | [GitHub](https://github.com/leamars/WWDC2015) | | [@hellosunschein](https://twitter.com/hellosunschein) | Accepted |
 | Leo Mehlig | [GitHub](https://github.com/leoMehlig/EnigmaBombe) | | [@leoMehlig](https://twitter.com/leoMehlig) | Accepted |
