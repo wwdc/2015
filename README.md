@@ -33,7 +33,7 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2015
 | Brandon Shaw | [GitHub](https://github.com/unobrandon/WWDC15-Brandon) | | [@my_shaw](https://twitter.com/my_shaw) | |
 | Brian Huynh | [GitHub](https://github.com/comps3/Brian-Huynh) | | [@comps3](https://twitter.com/comps3) | Rejected |
 | Bryan Keller | | [Vimeo](https://vimeo.com/126077764) | | |
-| Cal Stephens | [GitHub](https://github.com/Calda/About-Cal) | | | |
+| Cal Stephens | [GitHub](https://github.com/Calda/About-Cal) | [YouTube](https://www.youtube.com/watch?v=6HlfvftH24s) | [@calstephens98](https://twitter.com/calstephens98) | Accepted |
 | Caue Alves | [GitHub](https://github.com/CaueAlvesSilva/Caue-Alves---WWDC15) | | | |
 | Charles Truluck | [GitHub](https://github.com/charlestruluck/WWDC-2015) | | [@Charlestruluck\_](https://twitter.com/CharlesTruluck_) | |
 | Daniel Chen | [GitHub](https://github.com/cheniel/wwdc-scholarship-2015) | | | Accepted |
