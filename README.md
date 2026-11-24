@@ -1,6 +1,6 @@
 # WWDC 2015 - Scholarship
 
-![WWDC 2015 Logo](http://cdn.macrumors.com/article-new/2015/04/Apple-WWDC-2015-Logo.png?retina)
+![WWDC 2015 Logo](logo.png)
 
 List of student submissions for the WWDC 2015 - Scholarship. The list is in alphabetical order.
 
@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2015/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | Adil Virani | [GitHub](https://github.com/AdilVirani/WWDC-2015) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
