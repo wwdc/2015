@@ -14,7 +14,7 @@ Use the **[update form](https://github.com/wwdc/2015/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src="assets/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | Aarti Parikh | [GitHub](https://github.com/aarti/wwdc-scholarship-app) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
 | Adil Virani | [GitHub](https://github.com/AdilVirani/WWDC-2015) | ![Submitted](https://img.shields.io/badge/submitted-slategrey?style=for-the-badge) |
